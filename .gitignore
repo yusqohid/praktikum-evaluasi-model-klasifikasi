@@ -6,3 +6,6 @@ Modul_*.pdf
 .venv/
 __pycache__/
 .ipynb_checkpoints/
+LAPORAN.md
+LAPORAN.pdf
+figures/
