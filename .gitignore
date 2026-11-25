@@ -1,0 +1,8 @@
+PLAN.md
+output.txt
+laporan.html
+build_*.py
+Modul_*.pdf
+.venv/
+__pycache__/
+.ipynb_checkpoints/
